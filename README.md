@@ -6,7 +6,7 @@
     - Fare calculation on given date Range
     - Check Transaction History
     - Deposite Issue Books
-    - Issue/withdrawal Book (Book Type customers like Register/Non Register user)
+    - Issue/withdrawal Book (Both Type customers like Register/Non Register user)
     - Check Book Availability
 - Module and Library
   - Date and Time
